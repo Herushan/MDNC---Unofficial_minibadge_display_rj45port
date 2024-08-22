@@ -19,5 +19,9 @@ Pin 6: NC
 Pin 7: GND
 Pin 8: GND
 
+![PXL_20231123_185848067](https://github.com/user-attachments/assets/52268a6d-ac93-489f-8e2a-610ac995038e)
+![PXL_20231123_185828914](https://github.com/user-attachments/assets/847aba0e-a599-4926-bb4a-3707a7cb4bf6)
+
+
 This is a novalty connector and one I plan to use for display boards and other add-ons with minibadges. I also wanted the possiblity to use the USB to rj45 serial cables that come with UPS with the boards as well for possible communication witht he I2C minibadges.
 
